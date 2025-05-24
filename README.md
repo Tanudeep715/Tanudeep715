@@ -14,5 +14,5 @@
 - Building predictive models for sales forecasting
 - Creating automated dashboards using Python and Power BI
 
-📫 Let’s connect: LinkedIn-https://www.linkedin.com/in/tanudeep/ 
+📫 Let’s connect: LinkedIn - https://www.linkedin.com/in/tanudeep/ 
                    Dashbords- https://public.tableau.com/app/profile/tanu.deep/vizzes
