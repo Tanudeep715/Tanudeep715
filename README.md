@@ -16,3 +16,7 @@
 
 📫 Let’s connect: LinkedIn - https://www.linkedin.com/in/tanudeep/ 
                    Dashbords- https://public.tableau.com/app/profile/tanu.deep/vizzes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
