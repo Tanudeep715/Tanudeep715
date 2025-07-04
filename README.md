@@ -24,21 +24,3 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-  <tbody>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"></td>
-      <td><img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" height="30"></td>
-      <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"></td>
-      <td>
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30">
-      </td>
-    </tr>
-  </tbody>
-</table>
