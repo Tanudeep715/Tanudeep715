@@ -1,18 +1,35 @@
 # Hi, I'm Tanudeep BM 👋
 
-🎯 **Data Analyst** with 3+ years of experience transforming data into actionable insights.
+🎯 **Data Analyst | 3.5+ Years Experience | Retail | Payments | Banking**
 
-🔍 Expertise in:
-- **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI
-- **Data Wrangling & ETL**: Cleaning, transforming, and loading large datasets
-- **Statistical Analysis**: A/B testing, regression, hypothesis testing
-- **Tools**: Jupyter, Tableau, Git, Oracle, SQL, Excel
+I'm a data analyst with a passion for transforming complex datasets into meaningful business insights. With hands-on experience across **Retail**, **Payments**, and **Banking** domains, I help businesses make smarter, data-backed decisions through visualization, automation, and predictive analytics.
 
-📊 Passionate about solving real-world problems with data.
+## 🔧 Core Skills
 
-🚀 Currently working on:
-- Building predictive models for sales forecasting
-- Creating automated dashboards using Python and Power BI / Tableau 
+- **Languages & Analytics**: Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, Excel  
+- **BI & Visualization Tools**: Power BI (Bookmarks, Sync Slicers), Tableau  
+- **Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression, Clustering  
+- **ETL & Data Handling**: Data Cleaning, Feature Engineering, Automated Pipelines  
+- **Tools & Platforms**: Jupyter, Git, Oracle SQL, Excel, Scikit-learn  
+
+
+
+## 🏢 Domain Experience
+
+- **Retail Analytics**:  
+  - Sales forecasting, customer behavior trends, performance dashboards  
+- **Payments & Banking**:  
+  - Fraud detection, anomaly tracking, regulatory reporting  
+- **Business Intelligence**:  
+  - KPI dashboards, data storytelling, cross-functional analytics  
+
+
+## 🚀 Current Projects
+ 
+- 📊 **Automated BI Dashboards** – Streamlining KPI reporting pipelines with Python + Power BI/Tableau  
+- 🤖 **Generative AI for Analytics** – Exploring OpenAI APIs to automate SQL generation and anomaly detection  
+
+
 
 📫 Let’s connect: LinkedIn - https://www.linkedin.com/in/tanudeep/ 
                    Dashbords- https://public.tableau.com/app/profile/tanu.deep/vizzes
