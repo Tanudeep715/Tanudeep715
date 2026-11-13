@@ -35,7 +35,7 @@ Domain	What I did	Result
 
 
 
-📫 Let’s connect: LinkedIn - https://www.linkedin.com/in/tanudeep/ 
+📫 Let’s connect: LinkedIn - (https://www.linkedin.com/in/tanudeepmadival/)
                    
   Dashbords- https://public.tableau.com/app/profile/tanu.deep/vizzes
 
