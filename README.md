@@ -1,4 +1,4 @@
-Hi, I'm Tanudeep BM 👋
+Hi, I'm Tanu M 👋
 
 🎯 Data Analyst | 4 Years Experience | SQL · Python · BigQuery | Fraud Detection · Anomaly Detection · Trust & Safety Analytics
 
